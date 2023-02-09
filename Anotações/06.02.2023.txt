@@ -1,0 +1,7 @@
+<br> quebra de linha
+<hr> quebra de linha com uma barra horizontal
+<lorem> gera um texto com palavras (em latim) aleatorias, somente para preenchimento de espaço.
+
+<ul> no inicio da lista, tag de lista não ordenada
+<ol> no inicio da lista, tag de lista ordenada
+<li> para cada item da lista ex: <li>item 1 </li>

@@ -1,0 +1,28 @@
+LMR - linguagem de marcação: Linguagem de formatação de textos e interfaces.
+
+Prototipagem: Esboçar as ideias do projeto, seja um app ou site, pra desktop ou mobile. Rafe é o modelo feita de protopagigem propriamente dito.
+
+UI - User interface: modelo/interação com o usuário.
+
+UX - User experience: usabilidade/utilidade do produto ao usuário.
+
+HTML: Estruturação (estrutura do conteúdo) das pags web;
+
+CSS: Estilo (aparência) das pags web;
+
+JavaScript - Funcionalidades de uma pag web.
+
+HTML: estruturação.
+
+<doctype>
+<html>
+<head>
+<title> Título </title>
+</head> \ link para o css, URL, palavras-chave
+<body> </body> \ todo o restante do site, links, layout, etc.
+</html>
+
+meta --> dados de um arquivo.
+charset --> tipos de caracteres que serao usadas.
+
+Identação --> espaçamento (tab) para conteúdos dentro de uma condição ou estrutura com abertura e fechamento.
