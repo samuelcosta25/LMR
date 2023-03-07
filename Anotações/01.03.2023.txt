@@ -1,0 +1,15 @@
+A composição de um página se baseia em 3 composições:
+- HTML --> Esqueleto
+- CSS --> Estética
+- JAVA SCRIPT --> Parte funcional
+
+No front-end sempre é usado java script.
+No back-end pode-se usar diversas linguagens, como PHP, python ou Java script também.
+
+https://www.W3Schools.com/tags/default.asp
+
+CSS:
+Para criação de um arquivo css basta colocar o sulfixo ".css" no nome do arquivo
+Para importação da biblioteca --> no arquivo .HTML escrever "link" e escolher e opção "link CSS"
+Seletores são as tags a serem puxadas no CSS para se manter um padrão de estilização.
+Existem 3 tipos de seletores: Tag, Class e Id.

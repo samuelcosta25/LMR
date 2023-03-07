@@ -1,0 +1,7 @@
+para mapeamento de imagens:
+- mapear regiôes da imagem a gerarem hiperlink, pelo site https://www.image-map.net/.
+- Copiar código de coordenadas gerado.
+- chamar imagem que foi mapeada (Atenção a alterar o tamanho original da imagem e o mapeamento mudar)
+- ainda na tag de chamar imagem, declarar mapeamento com: usemap="#nomeDoMapeamento" (importante colocar hashtag)
+- Chamar mapeamento com: <map name="nomeDoMapeamento">
+- Copiar as coordenadas geradas no image-map.net
