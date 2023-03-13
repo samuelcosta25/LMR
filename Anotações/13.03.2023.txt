@@ -1,0 +1,48 @@
+margin-left: auto
+margin-right: auto
+Ambos os comandos irão centralizar horizontalmente.
+
+unidade de medida "vh", consiste em 100% do tamanho na vertical visível ao usuário.
+
+padding: borda externa ao elemento.
+Responsividade = Um site ou página que se adapta ao tamamho do dispositivo.
+
+Para alinhamento:
+justify-content --> Para alinhamento na horizontal.
+
+O alinhameno em si para o justify-content se da pelos comandos:
+flex-start;
+flex-end;
+center;
+space-between;
+space-around; 
+space-evenly;
+
+align-items --> Para alinhamento na vertical.
+
+
+O alinhameno em si para o align-items se da pelos comandos:
+flex-start;
+flex-end;
+center;
+baseline;
+stretch;
+
+Para direcionamento: Flex-direction:
+
+row --> Alinhamento com o texto
+row-reverse --> Alinhamento reverso ao texto, na horizontal;
+column --> Alinhamento no topo;
+column --> Alinhamento na base;
+
+comando order --> geralmente associado à algum objeto em específico (edição somente no css do objeto); serve para ordenar ou alinhar somente 1 dos objetos entre varios;
+
+Comando flex-wrap --> quantidade de itens em uma linha:
+norap: todos itens na mesma linha;
+wrap: Itens organizados em linhas adicionais caso necessário;
+wrap-reverse: Itens organizados em linhas adicionais caso necessário, porem reverso;
+
+comando flex-flow --> Misturar row/column com wrap.
+
+comando flex-content/ aling-content --> Alinhar multiplas linhas.
+

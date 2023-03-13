@@ -13,3 +13,12 @@ Para criação de um arquivo css basta colocar o sulfixo ".css" no nome do arqui
 Para importação da biblioteca --> no arquivo .HTML escrever "link" e escolher e opção "link CSS"
 Seletores são as tags a serem puxadas no CSS para se manter um padrão de estilização.
 Existem 3 tipos de seletores: Tag, Class e Id.
+
+Para chamar uma tag:
+nome{}
+
+Para chamar uma Classe (div class):
+.nome {}
+
+Para chamar um Id:
+#nome
