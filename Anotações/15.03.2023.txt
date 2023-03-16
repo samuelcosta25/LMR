@@ -1,0 +1,8 @@
+Responsividade:
+ 
+media querie: recurso para ajustar o tamanho dos layouts de acordo com o tamanho da tela do dispositivo.
+
+para chamar sintaxe:
+ 
+@media screen and (max-width: 1000px) {aqui contem as alterações de tamanho} //com o screen abaixo de de 1000px, faça tal coisa
+
