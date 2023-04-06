@@ -33,7 +33,7 @@ Para direcionamento: Flex-direction:
 row --> Alinhamento com o texto
 row-reverse --> Alinhamento reverso ao texto, na horizontal;
 column --> Alinhamento no topo;
-column --> Alinhamento na base;
+column-reverse --> Alinhamento na base;
 
 comando order --> geralmente associado à algum objeto em específico (edição somente no css do objeto); serve para ordenar ou alinhar somente 1 dos objetos entre varios;
 
