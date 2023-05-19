@@ -1,31 +1,38 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Exercicio</title>
 </head>
+
 <body>
     <form>
         <form action="" id="test">
             <input type="text" id="IDnome">
             <br><br>
-            <input type="text"  id="IDsobrenome">
+            <input type="text" id="IDsobrenome">
             <br>
             <input type="button" value="Concatenar" onclick="tela()">
-    </form>
+        </form>
 
-    <br>
-    <form action="" id="Calc">
-        <input type="number" id="num">
-        <Select>
-            <option value="+">+</option>
-            <option value="-" >-</option>
-            <option value="*">*</option>
-            <option value="/" >/</option>
-        </Select>
-    </form>
+        <br>
+        <br>
+        <form action="" id="Calc">
+            <input type="number" id="num1">
+            <Select id="operacao">
+                <option value="+">+</option>
+                <option value="-">-</option>
+                <option value="*">*</option>
+                <option value="/">/</option>
+            </Select>
+            <input type="number" id="num2">
+            <br>
+            <input type="button" value="resultado" onclick="calculo()">
+        </form>
 </body>
 <script src="script.js"></script>
+
 </html>
